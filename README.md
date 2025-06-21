@@ -1,4 +1,4 @@
-<img src="assets/Banner.png" alt="Banner" width="100%" />
+<img src="Banner.png" alt="Banner" width="100%" />
 
 ## 👋 Hi there, I'm Huzaifa Haleem
 
