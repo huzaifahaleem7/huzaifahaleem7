@@ -30,7 +30,7 @@
 ### 📫 Let's Connect
 
 - 📧 Email: huzaifahaleem682@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/huzaifahaleem7](https://linkedin.com/in/huzaifahaleem7)
+- 💼 LinkedIn: [linkedin.com/in/huzaifahaleem77](https://linkedin.com/in/huzaifahaleem7)
 
 ---
 
