@@ -1,37 +1,38 @@
 <img src="gitbanner.png" alt="Banner" width="100%" />
 
-## 👋 Hi there, I'm Huzaifa Haleem
+# 👋 Hi, I'm Huzaifa Bin Haleem
 
-🎓 Final Year Computer Science Student at NUML University  
-💻 Full Stack Web Developer — Focused on React & Node.js  
-🔧 Currently learning Backend Development (Express.js, MongoDB, API Design)  
-🧠 Strong in DSA (C++) and OOP Fundamentals  
-📊 Working on a BCI-based Speech Generating System (Final Year Project)
-
----
-
-### 🚀 Tech Stack
-
-- **Frontend:** React, Tailwind CSS, Bootstrap  
-- **Backend:** Node.js, Express.js, MongoDB  
-- **Languages:** JavaScript, TypeScript, C++, PHP  
-- **Others:** Git, GitHub, WordPress, MySQL
+🎓 Final Year CS Student at NUML University | GPA: 3.5  
+💼 Web Dev Intern at Mars BPO  
+💻 Full Stack MERN Developer  
+🤖 Learning AI/ML with Python
 
 ---
 
-### 📌 Projects
+## 🚀 Tech Stack
 
-- 🧠 **P300-based Speech Generator** – EEG Signal classification for assistive communication  
-- 💼 Multiple Web Apps with login, cart, and API integration  
-- 🛍️ E-commerce UI with React + Tailwind
-
----
-
-### 📫 Let's Connect
-
-- 📧 Email: huzaifahaleem682@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/huzaifahaleem77](https://linkedin.com/in/huzaifahaleem7)
+**Frontend:** React, JavaScript, Tailwind CSS, Bootstrap  
+**Backend:** Node.js, Express.js, MongoDB, Socket.IO  
+**Languages:** JavaScript, Python, C++, PHP  
+**AI/ML:** Python, NumPy, Pandas, TensorFlow, scikit-learn  
+**Tools:** Git, GitHub, Postman, Cloudinary
 
 ---
 
-⭐ *“Always building. Always learning.”*
+## 📌 Featured Projects
+
+🛍️ **[SilkCora](https://silkcora.com)** – Production e-commerce platform backend  
+🧠 **BCI P300 Speech Generator** – EEG-based speech system (Final Year Project)  
+💬 **[Group Chat App](https://github.com/huzaifahaleem7/chat_app_backend)** – Real-time messaging with Socket.IO  
+🎥 **[YouStream](https://github.com/huzaifahaleem7/Backend-Project-fully-functional)** – Video streaming backend
+
+---
+
+## 📫 Connect
+
+📧 huzaifahaleem7@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/huzaifahaleem77)
+
+---
+
+⭐ *"Building. Learning. Growing."*
