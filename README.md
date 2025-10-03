@@ -31,7 +31,7 @@
 ## 📫 Connect
 
 📧 huzaifahaleem7@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/huzaifahaleem77)
+💼 [LinkedIn](https://linkedin.com/in/huzaifahaleem9)
 
 ---
 
